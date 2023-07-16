@@ -1,4 +1,70 @@
-# Welcome to GitHub docs contributing guide <!-- omit in toc -->
+Reset a child's Apple ID password
+If you are the family organizer or guardian, you can help reset your child's Apple ID password using your iPhone with iOS 16 or later or iPad with iPadOS 16 or later and two-factor authentication turned on for your Apple ID. OPEN
+Learn how to reset your child's Apple ID  OPEN-password
+About settings and features for kids under 13
+Some Apple ID settings and features work differently for children under 13. For example, a child under 13 can't create an Apple ID without permission and consent from a parent or guardian. The minimum age for account creation may vary across countries and regions as follows: Under 14 in Austria, Bulgaria, China mainland, Cyprus, Israel, Italy, Lithuania, South Korea, and Spain. Under 15 in Czech Republic, France, Greece, Peru, and Slovenia. Under 16 in Brazil, Croatia, Germany, Hungary, Ireland, Kosovo, Liechtenstein, Luxembourg, Malaysia, Netherlands, Philippines, Poland, Romania, Singapore, and Slovakia. Under 13 in all other countries and regions Botão de energia
+< |>
+Auto/Sair
+Tecla Empowering
+Menu/Enter
+MODOS
+Posição H / Posição V
+Ponto de mira
+Atribuição de
+Brilho
+Foco
+Idioma
+botões de atalho
+Contraste
+Relógio
+Tempo limite do
+DDC/CI
+Intensificação de Gama
+OSD
+Nível de preto
+escuro
+Temperatura da cor
+Transparência
+HDMI
+Luz Azul
+Saturação de 6 eixos Taxa de
+Modo de início
+ACM
+Tonalidade de 6 eixos atualização
+rápido
+Super Nitidez
+Volume
+Entrada
+Reposição
+Configuração
+Taxa de Reação
+Fonte automática
+Guardar definições
+automática
+FreeSync
+Modo Panorâmico emEntrada de áudio (Apenas no modelo com entrada de áudio)
+Saída de áudio (Apenas no modelo com saída de áudio)
+D-Sub
+HDMI 19 pinos (apenas para o modelo com HDMI)
+Analógico
+Sinal HDMI (apenas para o modelo com entrada HDMI)
+476mm
+268mm
+100-240Vac, 50-60Hz (Transformador AC)
+Temperatura de funcionamento: 0° a 40° C
+Temperatura de armazenamento: -20° a 60° C Humidade em funcionamento: 20% a 85%
+497.9 x383.9 x 211.8 mm
+2.48kg (líquido)
+Inclinação: -5° a +15°
+Rotação: Não
+Ajuste de altura: Não
+Articulação: Não
+Base amovível: Sim SB220Q
+LCD TFT a cores
+21,5°H (55cm) 0,2479 (H) × 0,2479 (V) mm
+250 (típ.)
+100.000.000:1 Máx. (ACM)
+178°H), 178°(V) # Welcome to GitHub docs contributing guide <!-- omit in toc -->
 
 Thank you for investing your time in contributing to our project! Any contribution you make will be reflected on [docs.github.com](https://docs.github.com/en) :sparkles:.
 
